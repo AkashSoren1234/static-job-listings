@@ -1,0 +1,16 @@
+.header_picture {
+  height: 160px;
+  width: 100%;
+  background-color: --desaturated-dark-cyan;
+}
+
+.header_picture img {
+  height: 100%;
+  width: 100%;
+}
+
+@media screen and (min-width: 765px) {
+  .header_picture {
+    height: 100px;
+  }
+}
