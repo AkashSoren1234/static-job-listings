@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AkashSoren1234/static-job-listings](https://github.com/AkashSoren1234/static-job-listings)
+- Live Site URL: [https://akashsoren1234.github.io/static-job-listings/](https://akashsoren1234.github.io/static-job-listings/)
 
 ## My process
 
